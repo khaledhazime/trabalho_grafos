@@ -1,3 +1,6 @@
+Link para o slide: 
+- https://docs.google.com/presentation/d/1W1KOTY96klj8fxEJRPBbOtrhdGku1orfVVWLA6REhqw/edit?usp=sharing
+
 Referências: 
 - https://www.geeksforgeeks.org/graph-and-its-representations/
 - https://www.khanacademy.org/computing/computer-science/algorithms#graph-representation
